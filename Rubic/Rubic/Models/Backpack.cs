@@ -11,6 +11,6 @@ namespace Rubic.Models
         public int Id { get; set; }
         public List<Stock> Stocks { get; set;}
         public int UserId { get; set; }
-        public User? User { get; set; }
+        public User User { get; set; }
     }
 }

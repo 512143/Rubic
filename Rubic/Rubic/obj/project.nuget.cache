@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUg67FXffBmFkgT7rL5JHBzpJvPuJq5MQxZ1LIJlh2Bxz2IGCPtx2xCh9ni2xXAoRZ9zilVsnOMiru3BRnjhNQ==",
+  "dgSpecHash": "fSANw95IBqPIeMP3HX/NnFzVnLAfdDK082K4hxRKX3sdMWoSOpRdG5vO4gedKjdoirlItZKowoxaPslh4Ejhog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\StudentDev\\source\\repos\\Rubic\\Rubic\\Rubic.csproj",
+  "projectFilePath": "C:\\Users\\StudentDev\\Documents\\GitHub\\note-512143\\Rubic\\Rubic\\Rubic\\Rubic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\StudentDev\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\StudentDev\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
